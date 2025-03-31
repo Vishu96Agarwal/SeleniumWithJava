@@ -14,7 +14,7 @@ public class CustomXpath {
 		
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
-		// url launch
+		// url launch.
 		driver.get("http://www.half.ebay.com");
 		
 		// Dynamic Wait
